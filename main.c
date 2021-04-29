@@ -8,7 +8,7 @@ int test(void)
 	b = 1;
 	c = a + b;
 
-	printf("c=%d\n", c);
+	printf("a=%d, b=%d, c=%d\n", a, b, c);
 
 	return 0;
 }
