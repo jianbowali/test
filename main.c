@@ -7,8 +7,6 @@ int test(void)
 	a = 0;
 	b = 1;
 
-	c = a + b;
-
 	printf("c=%d\n", c);
 
 	return 0;
